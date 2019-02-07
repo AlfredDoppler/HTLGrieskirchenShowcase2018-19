@@ -71,6 +71,15 @@
     "info": "Don't die.",
     "status": 0
   },
+
+	{
+        "title": "TurnbasedRougeLike",
+        "folder": "TurnbasedRougeLikeWebGL",
+        "author": "Philipp Seiringer",
+        "year": "2018_WS",
+	    "info": "Turn-based Rougelike Dungeoncrawler",
+        "status": 0
+    },
   {
     "title": "Jump and Run",
     "folder": "JumpAndRunWebGL",
