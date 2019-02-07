@@ -14,7 +14,15 @@
         "year": "2018_WS",
 	    "info": "The game includes ADVANCED mechanics and there are no tutorials so good luck",
         "status": 1
-    }
+    },
+    {
+        "title": "hacking-game",
+        "folder": "hacking-game",
+        "author": "Adrian Kaiser",
+        "year": "2018_WS",
+	    "info": "Do the work",
+        "status": 1
+    },
     {
         "title": "Stickbrawl",
         "folder": "Stickbrawl",
