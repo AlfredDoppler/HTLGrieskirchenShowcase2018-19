@@ -30,7 +30,7 @@
         "year": "2018_WS",
 	    "info": "Stickfight game, Controls: WASD, arrow keys",
         "status": 1
-    }
+    },
     {
         "title": "zombie-survival",
         "folder": "ZombieSurvival",
@@ -38,5 +38,13 @@
         "year": "2018_WS",
 	    "info": "",
         "status": 1
+    },
+    {
+      "title": "streetfight_miami",
+      "folder": "StreetfightMiamiWebGL",
+      "autor": "Xaver Kaindl",
+      "year": "2018_WS",
+      "info": "",
+      "status": 1
     }
 ]
