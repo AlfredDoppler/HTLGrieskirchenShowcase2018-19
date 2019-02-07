@@ -7,4 +7,12 @@
 	    "info": "",
         "status": 0
     }
+	{
+        "title": "indigo",
+        "folder": "indigo",
+        "author": "Julian Zeilinger",
+        "year": "2018_WS",
+	    "info": "Solve the difficult puzzles and find the hidden objects to get out of the forge.",
+        "status": 1
+    }
 ]
