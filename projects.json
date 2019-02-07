@@ -87,4 +87,22 @@
 	 "info": "Adventure Game",
 	 "status": 0
 	 }
+	,
+	 {
+	 "title": "Racing Game 2D Web",
+	 "folder": "Racing Game 2D Web",
+	 "author": "Jonas Siegesleitner",
+	 "year": "2018_WS",
+	 "info": "Racing Game 2D Web Game",
+	 "status": 0
+	 }
+	,
+	 {
+	 "title": "Jump and Run Game",
+	 "folder": "JumpAndRunWebGL",
+	 "author": "Jonas Puckmayr",
+	 "year": "2018_WS",
+	 "info": "Jump and Run",
+	 "status": 0
+	 }
 ]
