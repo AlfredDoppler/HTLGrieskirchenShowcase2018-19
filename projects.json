@@ -22,5 +22,13 @@
         "year": "2018_WS",
 	    "info": "Do the work",
         "status": 1
+    },
+    {
+        "title": "streetfightMiami",
+        "folder": "StreetfightMiamiWebGL",
+        "author": "Xaver Kaindl",
+        "year": "2018_WS",
+      "info": "unfinished 2D sidescroller",
+        "status": 1
     }
 ]
