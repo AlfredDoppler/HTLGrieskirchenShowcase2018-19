@@ -14,5 +14,13 @@
         "year": "2018_WS",
 	    "info": "The game includes ADVANCED mechanics and there are no tutorials so good luck",
         "status": 1
+    },
+    {
+        "title": "exohunt",
+        "folder": "exohunt",
+        "author": "Michael Mayrhofer",
+        "year": "2018_WS",
+	    "info": "Game that experiments with Unity2D lightning concepts",
+        "status": 0
     }
 ]
