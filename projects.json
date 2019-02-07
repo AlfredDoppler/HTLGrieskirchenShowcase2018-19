@@ -40,6 +40,14 @@
         "status": 1
     },
     {
+        "title": "Jump n Run",
+        "folder": "Jump_n_Run",
+        "author": "Marco Lehner",
+        "year": "2018_WS",
+	    "info": "Jump n Run game",
+        "status": 0
+    },
+    {
         "title": "Jump-And-Whip",
         "folder": "jump-and-whip",
         "author": "Moritz Stingl",
