@@ -16,6 +16,14 @@
         "status": 1
     },
     {
+        "title": "Bomberman",
+        "folder": "BombermanWebGL",
+        "author": "Jakob Deubler",
+        "year": "2018_WS",
+	    "info": "Bomberman Game",
+        "status": 1
+    },
+    {
         "title": "hacking-game",
         "folder": "hacking-game",
         "author": "Adrian Kaiser",
