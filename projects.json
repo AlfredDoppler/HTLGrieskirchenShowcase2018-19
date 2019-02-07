@@ -22,5 +22,13 @@
         "year": "2018_WS",
 	    "info": "Do the work",
         "status": 1
+    },
+    {
+        "title": "Jump-And-Whip",
+        "folder": "jump-and-whip",
+        "author": "Moritz Stingl",
+        "year": "2018_WS",
+	    "info": "Whipping and Jumping",
+        "status": 1
     }
 ]
