@@ -24,6 +24,22 @@
         "status": 1
     },
     {
+        "title": "Stickbrawl",
+        "folder": "Stickbrawl",
+        "author": "Jakob Schwarz",
+        "year": "2018_WS",
+	    "info": "Stickfight game, Controls: WASD, arrow keys",
+        "status": 1
+    },
+    {
+        "title": "zombie-survival",
+        "folder": "ZombieSurvival",
+        "author": "Fabian Auinger",
+        "year": "2018_WS",
+	    "info": "",
+        "status": 1
+    },
+    {
         "title": "Jump-And-Whip",
         "folder": "jump-and-whip",
         "author": "Moritz Stingl",
