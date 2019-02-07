@@ -15,4 +15,12 @@
 	    "info": "The game includes ADVANCED mechanics and there are no tutorials so good luck",
         "status": 1
     }
+    {
+        "title": "Stickbrawl",
+        "folder": "Stickbrawl",
+        "author": "Jakob Schwarz",
+        "year": "2018_WS",
+	    "info": "Controls: WASD and arrow keys",
+        "status": 1
+    }
 ]
