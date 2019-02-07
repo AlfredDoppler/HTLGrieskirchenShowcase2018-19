@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "title": "empty",
         "folder": "empty",
@@ -54,5 +54,54 @@
         "year": "2018_WS",
 	    "info": "Jumping and Whipping",
         "status": 0
-    }
+    },
+    {
+        "title": "ShootingGame",
+        "folder": "ShootingGame",
+        "author": "Lukas Kaisermayr",
+        "year": "2018_WS",
+	    "info": "Shooting and fleeing",
+        "status": 0
+    },
+	{
+        "title": "DEAD",
+        "folder": "DEAD WebGL",
+        "author": "Adrian Haiser",
+        "year": "2018_WS",
+	    "info": "Don't die.",
+        "status": 0
+    },
+	{
+        "title": "TurnbasedRougeLike",
+        "folder": "TurnbasedRougeLikeWebGL",
+        "author": "Philipp Seiringer",
+        "year": "2018_WS",
+	    "info": "Turn-based Rougelike Dungeoncrawler",
+        "status": 0
+    },
+	 {
+	 "title": "AdventureGame",
+	 "folder": "AdventureGame",
+	 "author": "Constanze Lampl",
+	 "year": "2018_WS",
+	 "info": "Adventure Game",
+	 "status": 0
+	 }
+	,
+	 {
+	 "title": "Racing Game 2D Web",
+	 "folder": "Racing Game 2D Web",
+	 "author": "Jonas Siegesleitner",
+	 "year": "2018_WS",
+	 "info": "Racing Game 2D Web Game",
+	 "status": 0
+	 },
+	 {
+	 "title": "Escape!",
+	 "folder": "Escape!",
+	 "author": "Nico Hamedinger",
+	 "year": "2018_WS",
+	 "info": "Survival Horror Game",
+	 "status": 0
+	 }
 ]
