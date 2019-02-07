@@ -31,6 +31,22 @@
 	    "info": "Stickfight game, Controls: WASD, arrow keys",
         "status": 1
     },
+    {
+        "title": "zombie-survival",
+        "folder": "ZombieSurvival",
+        "author": "Fabian Auinger",
+        "year": "2018_WS",
+	    "info": "",
+        "status": 1
+    },
+    {
+        "title": "Jump n Run",
+        "folder": "Jump_n_Run",
+        "author": "Marco Lehner",
+        "year": "2018_WS",
+	    "info": "Jump n Run game",
+        "status": 0
+    },
 	{
         "title": "indigo",
         "folder": "indigo",
