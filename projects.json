@@ -111,5 +111,13 @@
 	 "year": "2018_WS",
 	 "info": "Zombie Shooter",
 	 "status": -1
-	 }
+ },
+ {
+ 	 "title": "Streetfight Miami",
+ 	 "folder": "StreetfightMiami",
+ 	 "author": "Xaver Kaindl",
+ 	 "year": "2018_WS",
+ 	 "info": "unfinished sidescroller",
+ 	 "status": 0
+ 	 }
 ]
