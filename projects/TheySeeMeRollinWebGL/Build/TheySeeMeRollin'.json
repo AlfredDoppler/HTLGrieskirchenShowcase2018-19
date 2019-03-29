@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TheySeeMeRollin'.data.unityweb",
+"asmCodeUrl": "TheySeeMeRollin'.asm.code.unityweb",
+"asmMemoryUrl": "TheySeeMeRollin'.asm.memory.unityweb",
+"asmFrameworkUrl": "TheySeeMeRollin'.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
