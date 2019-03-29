@@ -111,5 +111,13 @@
 	 "year": "2018_WS",
 	 "info": "Zombie Shooter",
 	 "status": -1
-	 }
+	 },
+	{  
+        "title": "Pacman3d",
+        "folder": "Pacman3D",
+        "author": "Maximilian Schwarz, Robert Ortner, Michael Wagner",
+        "year": "2019",
+        "info": "The original Pacman feeling in a 3D modern world",
+        "status": "1"
+    }
 ]
