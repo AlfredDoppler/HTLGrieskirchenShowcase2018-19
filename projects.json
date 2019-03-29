@@ -111,5 +111,12 @@
 	 "year": "2018_WS",
 	 "info": "Zombie Shooter",
 	 "status": -1
-	 }
+	 },
+	{
+		"title": "TheySeeMeRollin",
+		"folder": "TheySeeMeRollinWebGL",
+		"author": "Christian Lindner",
+		"year": "2018_WS",
+		"info": "Jump and Roll",
+		"status": 1
 ]
