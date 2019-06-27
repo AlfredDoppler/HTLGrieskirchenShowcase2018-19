@@ -150,6 +150,14 @@
         "year": "2018_WS",
 	"info": "",
         "status": 1
-    }
+    },
+    {
+        "title": "Racing Game 3D",
+        "folder": "Racing Game 3D",
+        "author": "Jonas Siegesleitner",
+        "year": "2019_SS",
+	"info": "",
+        "status": 1
+    }    
      	 
 ]
