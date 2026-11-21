@@ -1,155 +1,154 @@
-[  
-    {
-	 "title": "AdventureGame",
-	 "folder": "AdventureGame",
-	 "author": "Constanze Lampl",
-	 "year": "2018_WS",
-	 "info": "Adventure Game",
-	 "status": 0
-    },
-    {
-        "title": "DEAD",
-        "folder": "DEAD WebGL",
-        "author": "Adrian Haiser",
-        "year": "2018_WS",
-	    "info": "Don't die.",
-        "status": 0
-    },
-    {
-	 "title": "DeadOps2",
-	 "folder": "DeadOps2WebGL",
-	 "author": "Patrick Gabriel",
-	 "year": "2018_WS",
-	 "info": "Zombie Shooter",
-	 "status": -1
-    },
-    {
-	 "title": "Escape!",
-	 "folder": "Escape!",
-	 "author": "?",
-	 "year": "2018_WS",
-	 "info": "?",
-	 "status": -1
-    },
-    {
-	 "title": "Exohunt",
-	 "folder": "Exohunt",
-	 "author": "?",
-	 "year": "2018_WS",
-	 "info": "?",
-	 "status": -1
-    },
-    {
-	 "title": "Export_Gnomes",
-	 "folder": "Export_Gnomes",
-	 "author": "?",
-	 "year": "2018_WS",
-	 "info": "?",
-	 "status": -1
-    },
-    {
-        "title": "hacking-game",
-        "folder": "hacking-game",
-        "author": "Adrian Kaiser",
-        "year": "2018_WS",
-	    "info": "Do the work",
-        "status": 1
-    },
-    {
-        "title": "isometric-game",
-        "folder": "isometric-game",
-        "author": "Michael Briedl",
-        "year": "2018_WS",
-	    "info": "The game includes ADVANCED mechanics and there are no tutorials so good luck",
-        "status": 1
-    },
-    {
-        "title": "Jump n Run",
-        "folder": "Jump_n_Run",
-        "author": "Marco Lehner",
-        "year": "2018_WS",
-	    "info": "Jump n Run game",
-        "status": 0
-    },    
-    {
-	 "title": "Jump and Run Game",
-	 "folder": "JumpAndRunWebGL",
-	 "author": "Jonas Puckmayr",
-	 "year": "2018_WS",
-	 "info": "Jump and Run",
-	 "status": 1
-    },
-    {
-        "title": "Jump-And-Whip",
-        "folder": "jump-and-whip",
-        "author": "Moritz Stingl",
-        "year": "2018_WS",
-	    "info": "Jumping and Whipping",
-        "status": 0
-    },
-    {
-	 "title": "Racing Game 2D Web",
-	 "folder": "Racing Game 2D Web",
-	 "author": "Jonas Siegesleitner",
-	 "year": "2018_WS",
-	 "info": "Racing Game 2D Web Game",
-	 "status": 1
-    },
-    {
-        "title": "ShootingGame",
-        "folder": "ShootingGame",
-        "author": "Lukas Kaisermayr",
-        "year": "2018_WS",
-	    "info": "Shooting and fleeing",
-        "status": 0
-    },
-    {
-        "title": "Stickbrawl",
-        "folder": "Stickbrawl",
-        "author": "Jakob Schwarz",
-        "year": "2018_WS",
-	    "info": "Stickfight game, Controls: WASD, arrow keys",
-        "status": 1
-    },
-    {
-        "title": "TurnbasedRougeLike",
-        "folder": "TurnbasedRougeLikeWebGL",
-        "author": "Philipp Seiringer",
-        "year": "2018_WS",
-	    "info": "Turn-based Rougelike Dungeoncrawler",
-        "status": 0
-    },
-    {
-	 "title": "WEBGL",
-	 "folder": "WEBGL",
-	 "author": "?",
-	 "year": "2018_WS",
-	 "info": "?",
-	 "status": -1
-    },
-    {
-	 "title": "WebGL Export Shooter2D",
-	 "folder": "WebGL Export Shooter2D",
-	 "author": "?",
-	 "year": "2018_WS",
-	 "info": "?",
-	 "status": -1
-    },
-    {
-	 "title": "Western Haze",
-	 "folder": "Western Haze",
-	 "author": "?",
-	 "year": "2018_WS",
-	 "info": "?",
-	 "status": -1
-    },
-    {
-        "title": "zombie-survival",
-        "folder": "ZombieSurvival",
-        "author": "Fabian Auinger",
-        "year": "2018_WS",
-	"info": "",
-        "status": 1
-    }
-     	 
+[
+  {
+    "title": "AdventureGame",
+    "folder": "AdventureGame",
+    "author": "Constanze Lampl",
+    "year": "2018_WS",
+    "info": "Adventure Game",
+    "status": 0
+  },
+  {
+    "title": "DEAD",
+    "folder": "DEAD WEB GL",
+    "author": "Adrian Haiser",
+    "year": "2018_WS",
+    "info": "Don't die.",
+    "status": 0
+  },
+  {
+    "title": "DeadOps2",
+    "folder": "DeadOps2WebGL",
+    "author": "Patrick Gabriel",
+    "year": "2018_WS",
+    "info": "Zombie Shooter",
+    "status": -1
+  },
+  {
+    "title": "Escape!",
+    "folder": "Escape!",
+    "author": "?",
+    "year": "2018_WS",
+    "info": "?",
+    "status": -1
+  },
+  {
+    "title": "Exohunt",
+    "folder": "Exohunt",
+    "author": "?",
+    "year": "2018_WS",
+    "info": "?",
+    "status": -1
+  },
+  {
+    "title": "Export_Gnomes",
+    "folder": "Export_Gnomes",
+    "author": "?",
+    "year": "2018_WS",
+    "info": "?",
+    "status": -1
+  },
+  {
+    "title": "hacking-game",
+    "folder": "hacking-game",
+    "author": "Adrian Kaiser",
+    "year": "2018_WS",
+    "info": "Do the work",
+    "status": 1
+  },
+  {
+    "title": "isometric-game",
+    "folder": "isometric-game",
+    "author": "Michael Briedl",
+    "year": "2018_WS",
+    "info": "The game includes ADVANCED mechanics and there are no tutorials so good luck",
+    "status": 1
+  },
+  {
+    "title": "Jump n Run",
+    "folder": "Jump_n_Run",
+    "author": "Marco Lehner",
+    "year": "2018_WS",
+    "info": "Jump n Run game",
+    "status": 0
+  },
+  {
+    "title": "Jump and Run Game",
+    "folder": "JumpAndRunWebGL",
+    "author": "Jonas Puckmayr",
+    "year": "2018_WS",
+    "info": "Jump and Run",
+    "status": 1
+  },
+  {
+    "title": "Jump-And-Whip",
+    "folder": "jump-and-whip",
+    "author": "Moritz Stingl",
+    "year": "2018_WS",
+    "info": "Jumping and Whipping",
+    "status": 0
+  },
+  {
+    "title": "Racing Game 2D Web",
+    "folder": "Racing Game 2D Web",
+    "author": "Jonas Siegesleitner",
+    "year": "2018_WS",
+    "info": "Racing Game 2D Web Game",
+    "status": 1
+  },
+  {
+    "title": "ShootingGame",
+    "folder": "ShootingGame",
+    "author": "Lukas Kaisermayr",
+    "year": "2018_WS",
+    "info": "Shooting and fleeing",
+    "status": 0
+  },
+  {
+    "title": "Stickbrawl",
+    "folder": "Stickbrawl",
+    "author": "Jakob Schwarz",
+    "year": "2018_WS",
+    "info": "Stickfight game, Controls: WASD, arrow keys",
+    "status": 1
+  },
+  {
+    "title": "TurnbasedRougeLike",
+    "folder": "TurnbasedRougeLikeWebGL",
+    "author": "Philipp Seiringer",
+    "year": "2018_WS",
+    "info": "Turn-based Rougelike Dungeoncrawler",
+    "status": 0
+  },
+  {
+    "title": "WEBGL",
+    "folder": "WEBGL",
+    "author": "?",
+    "year": "2018_WS",
+    "info": "?",
+    "status": -1
+  },
+  {
+    "title": "WebGL Export Shooter2D",
+    "folder": "WebGL Export Shooter2D",
+    "author": "?",
+    "year": "2018_WS",
+    "info": "?",
+    "status": -1
+  },
+  {
+    "title": "Western Haze",
+    "folder": "Western Haze",
+    "author": "?",
+    "year": "2018_WS",
+    "info": "?",
+    "status": -1
+  },
+  {
+    "title": "zombie-survival",
+    "folder": "ZombieSurvival",
+    "author": "Fabian Auinger",
+    "year": "2018_WS",
+    "info": "",
+    "status": 1
+  }
 ]
